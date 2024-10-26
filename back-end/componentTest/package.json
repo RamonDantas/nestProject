@@ -10,7 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@cucumber/cucumber": "^10.3.1",
     "axios": "^1.6.8",
-    "@cucumber/cucumber": "^10.3.1"
+    "componenttest": "file:"
   }
 }
